@@ -25,7 +25,7 @@ I am currently building a practical DFIR and cybersecurity portfolio through han
 
 ---
 
-## Portfolio Projects
+## Portfolio Projects — In Progress
 
 ### Email Phishing Triage Report
 
