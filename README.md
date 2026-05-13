@@ -2,7 +2,7 @@
 
 **Digital Evidence & DFIR Trainee | Cybersecurity Student | Bilingual PT/EN**
 
-I am a cybersecurity student at FIAP focused on Digital Forensics, Digital Evidence Analysis, Incident Investigation and Defensive Security.
+I am a cybersecurity student at FIAP building a practical portfolio focused on Digital Evidence Analysis, DFIR, Incident Investigation and Defensive Security.
 
 My professional background includes over 13 years of international experience in high-pressure environments aboard cruise ships, where I developed discipline, attention to detail, communication skills, operational resilience and the ability to work with multicultural teams.
 
@@ -108,6 +108,16 @@ I am looking for remote opportunities, freelance projects and entry-level roles 
 - Portuguese: Native
 - English: Fluent
 - Spanish: Advanced
+
+---
+
+## Professional Ethics
+
+All projects in this portfolio are based on simulated, public, sanitized or legally authorized data.
+
+I do not perform unauthorized access, account intrusion, password theft, private data collection or any activity outside a clearly defined legal and ethical scope.
+
+My work is focused on defensive security, digital evidence analysis, incident investigation, documentation and technical reporting.
 
 ---
 
